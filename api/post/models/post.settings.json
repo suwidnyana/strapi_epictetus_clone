@@ -38,7 +38,8 @@
       "pluginOptions": {}
     },
     "featured": {
-      "type": "boolean"
+      "type": "boolean",
+      "default": false
     },
     "author": {
       "model": "author"
