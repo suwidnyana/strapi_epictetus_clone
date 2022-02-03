@@ -8,6 +8,12 @@ Learn how to use Strapi.
 
 Choose the right branch in this repository to get the code for the different parts of the series.
 
+# Create Strapi V3
+
+npx create-strapi-app@3.6.8 my-project
+
+# Install
+
 Install all dependencies
 
 ```sh
