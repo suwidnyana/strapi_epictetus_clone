@@ -4,6 +4,8 @@ This code learn from https://www.youtube.com/watch?v=qkHkGq7kCdU&list=WL&index=1
 
 Learn how to use Strapi.
 
+Check this api https://strapi-epictetus.herokuapp.com/posts
+
 # Usage
 
 Choose the right branch in this repository to get the code for the different parts of the series.
